@@ -14,4 +14,4 @@ patches:
 images:
 - name: roslinmahmud/todo-app
   newName: roslinmahmud/todo-app
-  newTag: 7501c3aaa756965baeddca82e688203a2d778dfe
+  newTag: 227260ae99112de97707435f8bce29ded87ad6af
